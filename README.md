@@ -1,1 +1,1 @@
-https://uscwebdev.github.io/itp104-submissions-yoonsamu/
+https://samyoon20.github.io/class_website/
